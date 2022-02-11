@@ -1,5 +1,10 @@
 # CS506 Midterm
 
+## What is this?
+
+This is my submission for a Kaggle competition in Fall 2021. The competition goal was to predict, with as high accuracy as possible, the star rating associated with user reviews from Amazon Movie Reviews using the available features.
+
+
 ## Starter Code Instructions
 
 1. Download the `train.csv` and `test.csv` files from Kaggle into the `data/` folder
