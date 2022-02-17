@@ -1,8 +1,8 @@
-# CS506 Midterm
+# CS506 Midterm / Kaggle Competition
 
 ## What is this?
 
-This is my submission for a Kaggle competition in Fall 2021. The competition goal was to predict, with as high accuracy as possible, the star rating associated with user reviews from Amazon Movie Reviews using the available features. All of my own working code is stored under 'midterm-file.ipynb'.
+This is my submission for my first Kaggle competition in Fall 2021, where I placed 66th out of 170 competitors. The competition goal was to predict, with as high accuracy as possible, the star rating associated with user reviews from Amazon Movie Reviews using the available features. All of my own working code is stored under 'midterm-file.ipynb'. The link to the Kaggle page is here: https://www.kaggle.com/c/cs-506-midterm-a1-b1/overview.
 
 
 ## Starter Code Instructions
