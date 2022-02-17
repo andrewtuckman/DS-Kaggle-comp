@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is my submission for a Kaggle competition in Fall 2021. The competition goal was to predict, with as high accuracy as possible, the star rating associated with user reviews from Amazon Movie Reviews using the available features.
+This is my submission for a Kaggle competition in Fall 2021. The competition goal was to predict, with as high accuracy as possible, the star rating associated with user reviews from Amazon Movie Reviews using the available features. All of my own working code is stored under 'midterm-file.ipynb'.
 
 
 ## Starter Code Instructions
